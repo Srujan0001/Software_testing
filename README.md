@@ -1,4 +1,4 @@
-# Student Management API
+# Inventory Management API
 
 A Spring Boot REST API for managing products (used in a software testing context).
 
